@@ -27,6 +27,8 @@ Press `sw1` until `Led0` is On, `D0` will now be in `Output` mode.
 
 Try to press/release `sw2` and observe how `Led2` is showing the same signal.
 
-## Reference
+## Further information
 
+- [CT.3: Pines de Entrada Salida · Obijuan/Cuadernos-tecnicos-FPGAs-libres Wiki](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida#bloque-inout-right)
 - [tristate inout example? - Google Groups](https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/GBBzA6eF0KA)
+- [Inout pins and high-Z - Troubleshooting Help - TinyFPGA](https://discourse.tinyfpga.com/t/inout-pins-and-high-z/158)
